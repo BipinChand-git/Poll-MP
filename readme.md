@@ -16,15 +16,16 @@ This is a practice-based mini-project intended to improve JavaScript skills, par
 ## Installation
 
 **Install Bootstrap through npm:**
-    ```sh
+```sh
    npm install Bootstrap@5.3.3
+```
 
 ## Why Map?
 
 The Map object is used in this project to store the poll options and their corresponding vote counts. It provides several advantages:
 
-**Order Preservation:** Map maintains the order of entries, making it easy to display poll results in the order they were added.
+- Order Preservation: Map maintains the order of entries, making it easy to display poll results in the order they were added.
 
-**Key-Value Pairs:** Map allows storing key-value pairs, making it simple to update vote counts for each poll option.
+- Key-Value Pairs: Map allows storing key-value pairs, making it simple to update vote counts for each poll option.
 
-**Iteration:** Map provides convenient methods for iterating over entries, which is useful for dynamically displaying the results.
+- Iteration: Map provides convenient methods for iterating over entries, which is useful for dynamically displaying the results.
